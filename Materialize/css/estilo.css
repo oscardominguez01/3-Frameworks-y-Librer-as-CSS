@@ -1,0 +1,55 @@
+div{
+  border: 0px solid black;
+
+}
+
+body{
+  background-image: url(../img/NEVADO.jpg);
+}
+
+
+
+.titulo1{
+
+  margin-top: 50px;
+  color: rgb(212, 214, 27);
+  font-family: fantasy;
+}
+
+h1{
+  font-size: 2em;
+  margin: 5px;
+}
+
+h2{
+  font-size: 1em;
+  margin: 0px;
+}
+
+.redessociales{
+  width: 50%;
+  margin-top: 10px;
+}
+
+
+.centr0{
+  text-align: center;
+}
+
+.tamn_img{
+  width: 80%;
+}
+
+.editor{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.fondo1{
+  background-color: rgb(27, 214, 214, .5);
+  padding: 10px;
+}
+.fondo2{
+    background-color: rgb(104, 214, 27, .5);
+    padding: 10px;
+}

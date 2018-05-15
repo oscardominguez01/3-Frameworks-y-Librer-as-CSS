@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?tgutfo');
+  src:  url('fonts/icomoon.eot?tgutfo#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?tgutfo') format('truetype'),
+    url('fonts/icomoon.woff?tgutfo') format('woff'),
+    url('fonts/icomoon.svg?tgutfo#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook:before {
+  content: "\e900";
+  color: #3b5998;
+}
+.icon-line:before {
+  content: "\e901";
+  color: #00c300;
+}
+.icon-linkedin:before {
+  content: "\e902";
+  color: #0077b5;
+}
+.icon-twitter2:before {
+  content: "\e903";
+  color: #1da1f2;
+}
+.icon-whatsapp2:before {
+  content: "\e904";
+  color: #25d366;
+}
+.icon-youtube:before {
+  content: "\e905";
+  color: #f00;
+}
+.icon-google-plus3:before {
+  content: "\ea8d";
+}
+.icon-facebook2:before {
+  content: "\ea91";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-youtube2:before {
+  content: "\ea9e";
+}
